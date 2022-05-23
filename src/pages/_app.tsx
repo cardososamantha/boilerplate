@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title> Boilerplate</title>
+        <title>Planets</title>
         <link rel="shortcut icon" href="/img/star-icon.png" />
         <link rel="apple-touch-icon" href="/img/star-icon.png" />
         <meta
