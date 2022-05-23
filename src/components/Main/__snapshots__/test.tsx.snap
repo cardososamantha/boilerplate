@@ -1,9 +1,28 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
-  <h1>
-    Samantha
+<main
+  class="styles__Wrapper-sc-149c3co-0 fPviCX"
+>
+  <h1
+    class="styles__Title-sc-149c3co-1 kJiKQD"
+  >
+    Saturn
   </h1>
+  <h2
+    class="styles__Description-sc-149c3co-2 DQzgC"
+  >
+    Saturn is the sixth planet from the Sun and the second-largest planet in our solar system.
+  </h2>
+  <p
+    class="styles__Paragraph-sc-149c3co-3 bjLcyJ"
+  >
+    Adorned with thousands of beautiful ringlets, Saturn is unique among the planets. It is not the only planet to have rings – made of chunks of ice and rock – but none are as spectacular or as complicated as Saturn's.
+  </p>
+  <img
+    alt="Imagem do planeta Saturno."
+    class="styles__Illustration-sc-149c3co-4 cQRjtg"
+    src="/img/saturn.svg"
+  />
 </main>
 `
