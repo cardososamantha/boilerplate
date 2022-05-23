@@ -7,7 +7,7 @@ describe('<Main />', () => {
     const { container } = render(<Main />)
 
     expect(
-      screen.getByRole('heading', { name: /stardustie/i })
+      screen.getByRole('heading', { name: /Samantha/i })
     ).toBeInTheDocument()
 
     expect(container.firstChild).toMatchSnapshot()
