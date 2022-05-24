@@ -1,31 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## What's the boilerplate uses?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Typescript
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- NextJS
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- styled-components
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Jest
 
-## Learn More
+- React Testing Library
 
-To learn more about Next.js, take a look at the following resources:
+- Eslint
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Prettier
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Husky
+
+- Githooks
+
+- Storybook
+
+  
+
+## Getting started
+
+- Clone this repository and open it in the source code in your IDE/code editor.
+
+- Run `yarn` or `npm` to install all dependencies.
+
+  
+
+## Commands
+
+- `dev`: runs your application on `localhost:3000`
+
+- `build`: creates the production build version
+
+- `start`: starts a simple server with the build production code
+
+- `lint`: runs the linter in all components and pages
+
+- `test`: runs jest to test all components and pages
+
+- `test:watch`: runs jest in watch mode
+
+- `storybook`: runs storybook on `localhost:6006`
+
+- `build-storybook`: create the build version of storybook
+
+  
 
 ## Deploy on Vercel
 
