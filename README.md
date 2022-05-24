@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with [`create-
 
 
 
+
+
 ## What's the boilerplate uses?
 
 - Typescript
@@ -25,6 +27,8 @@ This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with [`create-
 - Storybook
 
   
+  
+  
 
 ## Getting started
 
@@ -32,6 +36,8 @@ This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with [`create-
 
 - Run `yarn` or `npm` to install all dependencies.
 
+  
+  
   
 
 ## Commands
@@ -52,6 +58,8 @@ This is a [Next.js](https://nextjs.org/) boilerplate bootstrapped with [`create-
 
 - `build-storybook`: create the build version of storybook
 
+  
+  
   
 
 ## Deploy on Vercel
