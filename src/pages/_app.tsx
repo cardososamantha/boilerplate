@@ -10,6 +10,8 @@ function App({ Component, pageProps }: AppProps) {
         <title>Planets</title>
         <link rel="shortcut icon" href="/img/star-icon.png" />
         <link rel="apple-touch-icon" href="/img/star-icon.png" />
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="06092B" />
         <meta
           name="description"
           content="A simple project starter to work with Typescrit, React, NextJS and Styled Components"
